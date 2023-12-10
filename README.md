@@ -1,7 +1,5 @@
 # Music Player
 ## Music player with basic controls.
-![music-player](https://i.imgur.com/jvzlog6.png)
-
 * Play & Pause
 * Previous & Next Song
 * Calculate display time
@@ -10,3 +8,8 @@
 ### Planing to add features
 * Shuffle
 * Playlist
+* Volume control
+
+![music-player](https://i.imgur.com/CeajmSW.jpg)
+
+
